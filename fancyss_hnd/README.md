@@ -5,6 +5,11 @@
 > 
 > **fancyss_hnd**离线安装包仅能在koolshare 梅林/官改 hnd/axhnd/axhnd.675x平台的机器上使用！具体支持机型如下：
 
+---
+**注意：** 本项目 fork 自 hq450/fancyss_history_package(https://github.com/hq450/fancyss_history_package)，仅保留 fancyss_hnd，追加 trojan 和 trojan-go 的支持。
+fancyss_arm384 的 trojan-go 对应版请转向 alalbb313/ss-trojan(https://github.com/alalbb313/ss-trojan/tree/master/history_package/fancyss_arm384)。
+
+---
 ## 使用说明
 
 - 请下载离线安装包后将文件名更改为shadowsocks.tar.gz，然后在软件中心离线安装页面上传安装。
