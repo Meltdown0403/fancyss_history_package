@@ -5,8 +5,8 @@
 > 此项目提供用于asuswrt/merlin/openwrt为基础的，带软件中心固件路由器的科学上网。
 
 ---
-**注意：** 本项目 fork 自 hq450/fancyss_history_package(https://github.com/hq450/fancyss_history_package)，仅保留 fancyss_hnd，追加 trojan 和 trojan-go 的支持。
-fancyss_arm384 的 trojan-go 对应版请转向 alalbb313/ss-trojan(https://github.com/alalbb313/ss-trojan/tree/master/history_package/fancyss_arm384)。
+**注意：** 本项目 fork 自 [hq450/fancyss_history_package](https://github.com/hq450/fancyss_history_package)，仅保留 fancyss_hnd，追加 trojan 和 trojan-go 的支持。
+fancyss_arm384 的 trojan-go 对应版请转向 [alalbb313/ss-trojan](https://github.com/alalbb313/ss-trojan/tree/master/history_package/fancyss_arm384)。
 
 ---
 ## 机型/固件支持（表格版）
