@@ -1,1 +1,1 @@
-55e8831551f7b70579de54a53f0f3eda shadowsocks_1.9.3.tar.gz
+cc720a194ed70aef45630d0ffbcc2ddc shadowsocks_1.9.3.tar.gz
